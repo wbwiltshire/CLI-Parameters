@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "CLI-ParameterExample": {
+      "commandName": "Project",
+      "commandLineArgs": "-d 8 -b 8/1/21 -f TestInput.txt"
+    }
+  }
+}

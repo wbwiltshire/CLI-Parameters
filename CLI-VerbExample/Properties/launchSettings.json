@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "CLI-Parameters": {
+      "commandName": "Project",
+      "commandLineArgs": "stop -d 7 -b 7/31/2021 -f SampleInput.txt"
+    }
+  }
+}
