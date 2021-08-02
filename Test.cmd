@@ -10,9 +10,9 @@ cd ..\..\..\..
 cd CLI-ParameterExample\bin\Debug\net5.0
 CLI-ParameterExample.exe --version
 CLI-ParameterExample.exe --help
-CLI-ParameterExample.exe --help status
 CLI-ParameterExample.exe -d 7 -b 7/31/2021 
 CLI-ParameterExample.exe -d 10 -b 7/30/2022 -f TestInput.csv 
 CLI-ParameterExample.exe -b 8/1/2022
+CLI-ParameterExample.exe -d 7
 cd ..\..\..\..
 pause
